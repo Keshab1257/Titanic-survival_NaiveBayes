@@ -115,7 +115,7 @@ Ensure you have the following installed on your system:
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/SinghaniaAbhishek/Titanic-survival_NaiveBayes.git
+git clone repo link
 cd Titanic-survival_NaiveBayes
 ```
 
