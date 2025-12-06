@@ -16,7 +16,7 @@
 
 ## 📌 Overview
 
----
+
 
 This project uses **Gaussian Naive Bayes** algorithm to predict whether a Titanic passenger survived based on their class, gender, age, and fare. It's a classic machine learning classification problem demonstrating data preprocessing, model training, and evaluation.
 
